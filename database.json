@@ -10,6 +10,6 @@
         ]
     },
     "repositorio":{
-        "atualizar": false
+        "atualizar": true
     }
 }
