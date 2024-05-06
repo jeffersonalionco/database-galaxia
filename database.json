@@ -8,5 +8,8 @@
         "enviadas": [
             "Somente as noticações que já foi obsoleta entra aqui, coloca o id e a mensagem não sera mais enviada", 1000, 1001, 1003
         ]
+    },
+    "repositorio":{
+        "atualizar": false
     }
 }
