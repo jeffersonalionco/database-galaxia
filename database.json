@@ -1,11 +1,12 @@
 {
     "notificacao": {
-        "id": 1000,
+        "id": 1001,
         "msg": [
-            "_Foi adicionado ao jogo - A opção de Notificação, para os usuarios do jogo. Cada Jogador recebera um aviso, se Houve mudanças no game._\n\n"
+            "_Foi adicionado ao jogo - A opção de Notificação, para os usuarios do jogo. Cada Jogador recebera um aviso, se Houve mudanças no game._\n\n",
+            "Notificação de teste"
         ],
         "enviadas": [
-            "Somente as noticações que já foi obsoleta entra aqui, coloca o id e a mensagem não sera mais enviada"
+            "Somente as noticações que já foi obsoleta entra aqui, coloca o id e a mensagem não sera mais enviada", 1000
         ]
     }
 }
