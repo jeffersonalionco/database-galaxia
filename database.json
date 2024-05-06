@@ -1,0 +1,11 @@
+{
+    "nodificacao": {
+        "id": 1000,
+        "msg": [
+            "*🔔 - Notificação Game Galáxia*\n\n*[BOT]* _Mystic_\n\n",
+            "_Foi adicionado ao jogo - A opção de Notificação, para os usuarios do jogo. Cada Jogador recebera um aviso, se Houve mudanças no game.\n\n",
+            "_Duvida use o comando,_ *glx criador!*"
+        ],
+        "enviadas":["Somente as noticações que já foi obsoleta entra aqui, coloca o id e a mensagem não sera mais enviada"]
+    }
+}
