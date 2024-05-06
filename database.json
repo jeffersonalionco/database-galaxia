@@ -10,6 +10,7 @@
         ]
     },
     "repositorio":{
-        "atualizar": false
+        "atualizar": 1000,
+        "atualizados":[]
     }
 }
