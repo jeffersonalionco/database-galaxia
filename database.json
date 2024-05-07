@@ -1,16 +1,17 @@
 {
     "notificacao": {
-        "id": 1003,
+        "id": 1004,
         "msg": [
-            "_Foi adicionado ao jogo - A opção de Notificação, para os usuarios do jogo. Cada Jogador recebera um aviso, se Houve mudanças no game._\n\n",
-            "Teste de Notificação 3"
+            "*Nova Atualização do jogo* - _Devido a um erro no Debiam, a função *glx mapa* foi desativado do bot, para evitar erro. no mais tudo certo._ \n\n *Bom jogo para você*",
+            "\n\nEm breve a função de ataque, a outro usuarios será liberada!\n\n",
+            "_Foi adicionado ao jogo - A opção de Notificação, para os usuarios do jogo. Cada Jogador recebera um aviso, se Houve mudanças no game._\n\n"
         ],
         "enviadas": [
-            "Somente as noticações que já foi obsoleta entra aqui, coloca o id e a mensagem não sera mais enviada", 1000, 1001, 1003
+            "coloque as id que ja foi notificado", 1000, 1001, 1003
         ]
     },
     "repositorio":{
-        "atualizar": 1001,
-        "atualizados":[1000]
+        "atualizar": 1002,
+        "atualizados":[1001]
     }
 }
