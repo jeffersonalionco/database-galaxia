@@ -1,17 +1,17 @@
 {
     "notificacao": {
-        "id": 1004,
+        "id": 1005,
         "msg": [
-            "*Nova Atualização do jogo* - _Devido a um erro no Debiam, a função *glx mapa* foi desativado do bot, para evitar erro. no mais tudo certo._ \n\n *Bom jogo para você*",
-            "\n\nEm breve a função de ataque, a outro usuarios será liberada!\n\n",
+            "*Nova Atualização do jogo 08/05/2024*\n\n_1) Funcão ATAQUE_ - *glx atacar <username>\n_2) Listar Usuarios_ - *glx atacar list*",
+            "\n\nAgora você pode se defender e atacar usuarios, no galáxia\n\n",
             "_Foi adicionado ao jogo - A opção de Notificação, para os usuarios do jogo. Cada Jogador recebera um aviso, se Houve mudanças no game._\n\n"
         ],
         "enviadas": [
-            "coloque as id que ja foi notificado", 1000, 1001, 1003
+            "coloque as id que ja foi notificado", 1000, 1001, 1003, 1004
         ]
     },
     "repositorio":{
-        "atualizar": 1002,
-        "atualizados":[1001]
+        "atualizar": 1003,
+        "atualizados":[1002]
     }
 }
