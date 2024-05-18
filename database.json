@@ -1,17 +1,16 @@
 {
     "notificacao": {
-        "id": 1006,
+        "id": 1007,
         "msg": [
-            "*Nova Atualização do jogo 08/05/2024*\n\n_1) Funcão ATAQUE_ - *glx atacar <username>\n_2) Listar Usuarios_ - *glx atacar list*",
-            "\n\nAgora você pode se defender e atacar usuarios, no galáxia\n\n",
+            "Algumas correções e implantações de melhorias\n\n",
             "_Foi adicionado ao jogo - A opção de Notificação, para os usuarios do jogo. Cada Jogador recebera um aviso, se Houve mudanças no game._\n\n"
         ],
         "enviadas": [
-            "coloque as id que ja foi notificado", 1000, 1001, 1003, 1004, 1005
+            "coloque as id que ja foi notificado", 1000, 1001, 1003, 1004, 1006
         ]
     },
     "repositorio":{
-        "atualizar": 1003,
-        "atualizados":[1002]
+        "atualizar": 1004,
+        "atualizados":[1003]
     }
 }
