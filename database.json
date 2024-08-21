@@ -1,16 +1,16 @@
 {
     "notificacao": {
-        "id": 1008,
+        "id": 1009,
         "msg": [
-            "Algumas correções e implantações de melhorias\n\n",
-            "_Implementado a opção de licença, no bot_\n\n"
+            "O melhor jogo do Whatsapp\n\n",
+            "_O game Galaxia tem se tornado muito famoso_\n\n"
         ],
         "enviadas": [
-            "coloque as id que ja foi notificado", 1000, 1001, 1003, 1004, 1006, 1007
+            "coloque as id que ja foi notificado", 1000, 1001, 1003, 1004, 1006, 1007, 1008
         ]
     },
     "repositorio":{
-        "atualizar": 1005,
-        "atualizados":[1004]
+        "atualizar": 1006,
+        "atualizados":[1005]
     }
 }
