@@ -1,16 +1,16 @@
 {
     "notificacao": {
-        "id": 1007,
+        "id": 1008,
         "msg": [
             "Algumas correções e implantações de melhorias\n\n",
-            "_Foi adicionado ao jogo - A opção de Notificação, para os usuarios do jogo. Cada Jogador recebera um aviso, se Houve mudanças no game._\n\n"
+            "_Implementado a opção de licença, no bot_\n\n"
         ],
         "enviadas": [
-            "coloque as id que ja foi notificado", 1000, 1001, 1003, 1004, 1006
+            "coloque as id que ja foi notificado", 1000, 1001, 1003, 1004, 1006, 1007
         ]
     },
     "repositorio":{
-        "atualizar": 1004,
-        "atualizados":[1003]
+        "atualizar": 1005,
+        "atualizados":[1004]
     }
 }
